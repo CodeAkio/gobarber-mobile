@@ -17,7 +17,7 @@ export const Title = styled.Text`
 `;
 
 export const ForgotPassword = styled.TouchableOpacity`
-  margin-top: 24;
+  margin-top: 24px;
 `;
 
 export const ForgotPasswordText = styled.Text`
